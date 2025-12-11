@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/architecture_diagram.png" width="700" />
+  <img src="assets/LLM Fine-Tuning Workflow Diagram.png" width="700" />
 </p>
 ## 🧱 Architecture Diagram
 
