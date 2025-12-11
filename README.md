@@ -1,3 +1,6 @@
+## 🧱 Architecture Diagram
+
+![Architecture Diagram](assets/architecture_diagram.png)
 # llm-finetuning-prompt-engineering
 LLM Prompt Engineering & Fine-Tuning Project
 
