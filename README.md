@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/architecture_diagram.png" width="700" />
+</p>
 ## 🧱 Architecture Diagram
 
 ![Architecture Diagram](assets/architecture_diagram.png)
